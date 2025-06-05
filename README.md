@@ -11,7 +11,7 @@ Welcome to the Extrovert vs Introvert Analysis Project, a Jupyter Notebook-based
 ```
 
 ## Features
-- Data Import using pandas
+- Data Import using pandas 
 - Data Cleaning: Handling missing values and duplicates
 - Statistical Overview: Descriptive statistics and data types
 - Visualization: Using matplotlib and seaborn for plots
